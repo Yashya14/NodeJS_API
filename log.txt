@@ -1,0 +1,38 @@
+
+1706354982180:GET: /api/users
+
+1706355009651:GET: /api/users
+
+1706355015144:GET: /users
+
+1706355025325:GET: /api/users
+
+1706355064341:GET: /api/users
+
+1706355068894:GET: /api/users/65b4ceab7c95c3a974e03aec
+
+1706355155961:PATCH: /api/users/65b4d5c1d84506925bf95adc
+
+1706355171812:GET: /api/users
+
+1706355190588:DELETE: /api/users/65b4ceab7c95c3a974e03aec
+
+1706355205111:GET: /api/users
+
+1706355219205:DELETE: /api/users/65b4d46c3f0d07eab23014c4
+
+1706355223417:GET: /api/users
+
+1706355224168:GET: /api/users
+
+1706355224384:GET: /api/users
+
+1706355273400:POST: /api/users
+
+1706355277665:GET: /api/users
+
+1706355302637:GET: /api/users/65b4ea49debc424ded361fc9
+
+1706355346622:PATCH: /api/users/65b4ea49debc424ded361fc9
+
+1706355355730:GET: /api/users/65b4ea49debc424ded361fc9

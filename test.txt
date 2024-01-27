@@ -1,0 +1,4 @@
+schema - define the structure
+    
+    model view controller
+    controller : manipulate the model
